@@ -1,0 +1,83 @@
+E:\azurepipeline\First Application\First Application\bin\First Application.dll.config
+E:\azurepipeline\First Application\First Application\bin\First Application.dll
+E:\azurepipeline\First Application\First Application\bin\First Application.pdb
+E:\azurepipeline\First Application\First Application\bin\First Application.xml
+E:\azurepipeline\First Application\First Application\bin\roslyn\csc.exe
+E:\azurepipeline\First Application\First Application\bin\roslyn\csc.exe.config
+E:\azurepipeline\First Application\First Application\bin\roslyn\csc.rsp
+E:\azurepipeline\First Application\First Application\bin\roslyn\csi.exe
+E:\azurepipeline\First Application\First Application\bin\roslyn\csi.exe.config
+E:\azurepipeline\First Application\First Application\bin\roslyn\csi.rsp
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.Managed.Core.targets
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\azurepipeline\First Application\First Application\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.AppContext.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Collections.Immutable.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Console.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Globalization.Calendars.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.IO.Compression.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.IO.FileSystem.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Net.Http.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Net.Sockets.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Reflection.Metadata.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.ValueTuple.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Xml.XmlDocument.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Xml.XPath.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\azurepipeline\First Application\First Application\bin\roslyn\vbc.exe
+E:\azurepipeline\First Application\First Application\bin\roslyn\vbc.exe.config
+E:\azurepipeline\First Application\First Application\bin\roslyn\vbc.rsp
+E:\azurepipeline\First Application\First Application\bin\roslyn\VBCSCompiler.exe
+E:\azurepipeline\First Application\First Application\bin\roslyn\VBCSCompiler.exe.config
+E:\azurepipeline\First Application\First Application\bin\Antlr3.Runtime.dll
+E:\azurepipeline\First Application\First Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\azurepipeline\First Application\First Application\bin\Microsoft.Web.Infrastructure.dll
+E:\azurepipeline\First Application\First Application\bin\Newtonsoft.Json.dll
+E:\azurepipeline\First Application\First Application\bin\System.Web.Helpers.dll
+E:\azurepipeline\First Application\First Application\bin\System.Web.Mvc.dll
+E:\azurepipeline\First Application\First Application\bin\System.Web.Optimization.dll
+E:\azurepipeline\First Application\First Application\bin\System.Web.Razor.dll
+E:\azurepipeline\First Application\First Application\bin\System.Web.WebPages.Deployment.dll
+E:\azurepipeline\First Application\First Application\bin\System.Web.WebPages.dll
+E:\azurepipeline\First Application\First Application\bin\System.Web.WebPages.Razor.dll
+E:\azurepipeline\First Application\First Application\bin\WebGrease.dll
+E:\azurepipeline\First Application\First Application\bin\System.Web.Helpers.xml
+E:\azurepipeline\First Application\First Application\bin\System.Web.Mvc.xml
+E:\azurepipeline\First Application\First Application\bin\System.Web.Optimization.xml
+E:\azurepipeline\First Application\First Application\bin\System.Web.Razor.xml
+E:\azurepipeline\First Application\First Application\bin\System.Web.WebPages.xml
+E:\azurepipeline\First Application\First Application\bin\System.Web.WebPages.Deployment.xml
+E:\azurepipeline\First Application\First Application\bin\System.Web.WebPages.Razor.xml
+E:\azurepipeline\First Application\First Application\bin\Newtonsoft.Json.xml
+E:\azurepipeline\First Application\First Application\bin\Antlr3.Runtime.pdb
+E:\azurepipeline\First Application\First Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\azurepipeline\First Application\First Application\obj\Debug\First Application.vbproj.AssemblyReference.cache
+E:\azurepipeline\First Application\First Application\obj\Debug\First_Application.Resources.resources
+E:\azurepipeline\First Application\First Application\obj\Debug\First Application.vbproj.GenerateResource.cache
+E:\azurepipeline\First Application\First Application\obj\Debug\First Application.vbproj.CoreCompileInputs.cache
+E:\azurepipeline\First Application\First Application\obj\Debug\First Application.vbproj.CopyComplete
+E:\azurepipeline\First Application\First Application\obj\Debug\First Application.dll
+E:\azurepipeline\First Application\First Application\obj\Debug\First Application.xml
+E:\azurepipeline\First Application\First Application\obj\Debug\First Application.pdb
